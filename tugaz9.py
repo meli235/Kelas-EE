@@ -247,5 +247,3 @@ for lokasi in data_panen.values():
         kondisi = "dalam kondisi baik"
     print(f"{nama_lokasi}: {kondisi}")
 print('Soal no 3d')
-print ('Tambah Branch Baru')
-print ('Soal no 4')
