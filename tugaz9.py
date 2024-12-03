@@ -248,3 +248,5 @@ for lokasi in data_panen.values():
         kondisi = "dalam kondisi baik"
     
     print(f"{nama_lokasi}: {kondisi}")
+
+    #cobain push
