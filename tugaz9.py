@@ -248,3 +248,5 @@ for lokasi in data_panen.values():
     print(f"{nama_lokasi}: {kondisi}")
 print('Soal no 3d')
 print ('Soal No. 4.A')
+print ('Tambah Branch Baru')
+print ('Soal No. 4')
