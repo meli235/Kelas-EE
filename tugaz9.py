@@ -249,4 +249,4 @@ for lokasi in data_panen.values():
     
     print(f"{nama_lokasi}: {kondisi}")
 
-print ('selesai')
+print ('Tambah Branch Baru')
