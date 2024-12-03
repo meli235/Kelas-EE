@@ -249,3 +249,4 @@ for lokasi in data_panen.values():
     
     print(f"{nama_lokasi}: {kondisi}")
 
+print('Soal no 3d')
