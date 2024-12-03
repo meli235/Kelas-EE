@@ -241,12 +241,10 @@ for lokasi in data_panen.values():
     padi = hasil_panen['padi']
     jagung = hasil_panen['jagung']
     
-
     if padi > 1300 or jagung > 800:
         kondisi = "memerlukan perhatian khusus"
     else:
         kondisi = "dalam kondisi baik"
-    
     print(f"{nama_lokasi}: {kondisi}")
-
 print('Soal no 3d')
+print ('Tambah Branch Baru')
